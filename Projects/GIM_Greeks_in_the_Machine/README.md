@@ -12,6 +12,8 @@ This project reflects my growth in:
 - Navigating multi-modal datasets (options chains, FRED time series, time and sales logs)
 - Building modular, extensible tools for data-driven decision support
 
+In Greek mythology, Mnemosyne is the personification of memory and mother of the Muses. This system embodies that metaphor—functioning as a memory keeper that empowers deeper insight, creativity, and conceptual continuity.
+
 ---
 
 ## Structure
