@@ -27,7 +27,7 @@ The research emphasizes:
 
 The project intentionally documents both successful findings and hypotheses that did **not** survive validation: of 13 rigorously tested candidate regimes (HAC/Newey-West inference, random-label permutation testing, simple-baseline challenges, and a chronological out-of-sample holdout), only one cleared both robustness bars — a result consistent with pure chance under multiple-comparison correction.
 
-**[View the repository →](https://github.com/Telos-in-the-Void/vd-cloud)**
+**[View the repository →](https://github.com/MJNolan37/vd-cloud)**
 
 **Technologies**
 
@@ -48,7 +48,7 @@ It provides a visual framework for exploring market-state diagnostics through da
 
 The project focuses on making quantitative research easier to interpret while preserving methodological transparency. Zone labels are explicitly provisional and rule-based — a monitoring instrument, not a trading signal.
 
-**[Open the live dashboard →](https://telos-in-the-void.github.io/vd-cloud/atlas/)** · **[View the notebook →](https://github.com/Telos-in-the-Void/vd-cloud/tree/main/atlas)**
+**[Open the live dashboard →](https://mjnolan37.github.io/vd-cloud/atlas/)** · **[View the notebook →](https://github.com/MJNolan37/vd-cloud/tree/main/atlas)**
 
 ---
 
@@ -58,7 +58,7 @@ A clean-room study of longitudinal option-chain structure: a documented schema, 
 
 Deliberately stops before machine learning. The contribution is engineering, representation, and validation — not prediction, sentiment inference, or trading claims. All option-chain values are synthetic except the underlying's real daily price path.
 
-**[View the repository →](https://github.com/Telos-in-the-Void/options-positioning-research)**
+**[View the repository →](https://github.com/MJNolan37/options-positioning-research)**
 
 **Technologies**
 
