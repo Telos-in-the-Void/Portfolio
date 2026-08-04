@@ -52,6 +52,24 @@ The project focuses on making quantitative research easier to interpret while pr
 
 ---
 
+## 🎯 Options Positioning Research
+
+A clean-room study of longitudinal option-chain structure: a documented schema, wide-to-long contract normalization, eight engineered positioning/liquidity features, cumulative open-interest terrain, and gap-aware longitudinal charting — validated with a 12-check suite covering both data integrity and the synthetic generator's own shape rules.
+
+Deliberately stops before machine learning. The contribution is engineering, representation, and validation — not prediction, sentiment inference, or trading claims. All option-chain values are synthetic except the underlying's real daily price path.
+
+**[View the repository →](https://github.com/Telos-in-the-Void/options-positioning-research)**
+
+**Technologies**
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
+---
+
 # Research Interests
 
 Current areas of focus include:
@@ -100,7 +118,6 @@ The portfolio will continue to expand as projects complete governance review and
 Planned additions include:
 
 - Statistical validation utilities
-- Options positioning and liquidity analytics
 - Macro liquidity forecasting
 - Portfolio analytics
 - Research engineering tools
