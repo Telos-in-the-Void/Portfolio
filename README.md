@@ -1,55 +1,123 @@
-# Portfolio | Telos-in-the-Void
+# Quantitative Research Portfolio
 
-Welcome to my professional portfolio—a curated collection of technical and conceptual work in quantitative analysis, financial systems, and applied machine learning.
+A curated collection of independent quantitative research exploring financial markets, portfolio analytics, statistical validation, and decision-making under uncertainty.
 
-This repository serves as a centralized space to demonstrate key projects, research efforts, and frameworks developed throughout my career. It blends data science applications with systems-oriented thinking, and includes tools for finance, forecasting, and agentic knowledge integration.
+This repository serves as the public entry point to my research portfolio. It highlights selected projects that demonstrate quantitative reasoning, software development, and rigorous research methodology. Each featured project emphasizes reproducibility, transparent assumptions, and careful validation over attractive conclusions.
 
----
-
-## 🧭 Frameworks & Philosophy
-
-### [`C = f(T × A)`](Philosophy/C_eq_f_Times_A.md)
-A conceptual framework exploring the intersection of **Consciousness, Time, and Awareness**.  
-This section outlines the underlying model and provides context for how systems design, decision theory, and time management align with my broader approach to problem-solving.
+> **Research Philosophy**
+>
+> I build research to challenge ideas rather than confirm them. Well-documented negative results are valuable when they meaningfully reduce uncertainty.
 
 ---
 
-## ⚙️ Projects
+# Featured Research
 
-### [`GIM – Greeks in the Machine`](Projects/GIM_Greeks_in_the_Machine/README.md)
-A multi-part research and tooling initiative built around options data analysis.  
-Includes:
-- **Monte Carlo Simulations** (Python and R) for skill development and uncertainty modeling
-- **ARIMA Forecasting Tool** using FRED macroeconomic data to examine systemic liquidity conditions
-- **Cumulative Open Interest Tool** leveraging options time and sales data to assess sentiment shifts and liquidity across strike prices
+## 📈 V&D Cloud *(Coming Soon)*
 
----
+**Volatility & Dispersion Cloud** is a market-state diagnostic research project inspired by Ichimoku-style regime mapping.
 
-### [`Agentic Research Interface: Mnemosyne`](Projects/Mnemosyne/README.md)
-A modular framework to connect structured notetaking in Obsidian with GPT-based API workflows.  
-This project focuses on:
-- Augmenting idea retrieval and synthesis through LLMs
-- Creating bi-directional communication between local knowledge and external language models
-- Establishing reproducible research and note management via automation
+Instead of applying cloud analysis directly to price, the project investigates whether a synthetic market opportunity signal constructed from volatility and dispersion can provide useful descriptive information about market environments.
 
----
+The research emphasizes:
 
-### [`Strategic Architecture: The Council`](Projects/WarCouncil/README.md)
-A decision-making and planning framework using structured personas and role-based modeling.  
-This initiative explores:
-- Archetype-based design for planning, reflection, and internal dialogue
-- Systems strategy modeling through defined perspectives (e.g., executive, scout, analyst, operations)
-- Tooling to support creative and strategic alignment across complex projects
+- hypothesis-driven quantitative research
+- statistical validation using multiple robustness checks
+- transparent reporting of limitations
+- reproducible analysis using public market data
 
----
+The project intentionally documents both successful findings and hypotheses that did **not** survive validation.
 
-## 🧑‍💻 About
+**Technologies**
 
-I am a Portfolio Evaluation Analyst with experience in trading, financial analysis, and strategic project design. My background blends behavioral psychology, finance, and data science, with emphasis on using code to create clarity and drive meaningful outcomes.
-
-My work spans client analysis, options modeling, liquidity forecasting, and developing internal frameworks for collaborative decision-making and automation.
-
-> _“Form follows function. Insight follows awareness.”_
+- Python
+- Pandas
+- NumPy
+- Statsmodels
+- Plotly
+- Jupyter Notebook
 
 ---
 
+## 🌍 Atlas Observatory *(Coming Soon)*
+
+Atlas Observatory extends the V&D research into an interactive visualization environment.
+
+It provides a visual framework for exploring market-state diagnostics through dashboards that combine volatility, dispersion, and derived market-state classifications.
+
+The project focuses on making quantitative research easier to interpret while preserving methodological transparency.
+
+---
+
+# Research Interests
+
+Current areas of focus include:
+
+- Market-state diagnostics
+- Portfolio analytics
+- Statistical validation
+- Options analytics
+- Quantitative finance
+- Risk modeling
+- Machine learning for finance
+- Research engineering
+
+---
+
+# Technical Stack
+
+### Languages
+
+- Python
+- R
+- SQL
+- VBA
+
+### Libraries
+
+- Pandas
+- NumPy
+- Statsmodels
+- Plotly
+- Matplotlib
+
+### Tools
+
+- Git
+- Jupyter
+- Obsidian
+- Notion
+
+---
+
+# Repository Roadmap
+
+The portfolio will continue to expand as projects complete governance review and become suitable for public release.
+
+Planned additions include:
+
+- Statistical validation utilities
+- Market-state research
+- Quantitative finance notebooks
+- Portfolio analytics
+- Research engineering tools
+
+Projects remain private until they meet documentation, reproducibility, and data-governance standards.
+
+---
+
+# Research Standards
+
+Every published project aims to demonstrate:
+
+- Clear research questions
+- Transparent methodology
+- Reproducible implementation
+- Honest discussion of limitations
+- Appropriate validation
+- Separation of public and private research artifacts
+
+---
+
+# Contact
+
+If you'd like to discuss quantitative research, portfolio analytics, or financial technology, feel free to connect through GitHub or LinkedIn.
