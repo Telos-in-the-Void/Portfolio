@@ -12,7 +12,7 @@ This repository serves as the public entry point to my research portfolio. It hi
 
 # Featured Research
 
-## 📈 V&D Cloud *(Coming Soon)*
+## 📈 V&D Cloud
 
 **Volatility & Dispersion Cloud** is a market-state diagnostic research project inspired by Ichimoku-style regime mapping.
 
@@ -25,7 +25,9 @@ The research emphasizes:
 - transparent reporting of limitations
 - reproducible analysis using public market data
 
-The project intentionally documents both successful findings and hypotheses that did **not** survive validation.
+The project intentionally documents both successful findings and hypotheses that did **not** survive validation: of 13 rigorously tested candidate regimes (HAC/Newey-West inference, random-label permutation testing, simple-baseline challenges, and a chronological out-of-sample holdout), only one cleared both robustness bars — a result consistent with pure chance under multiple-comparison correction.
+
+**[View the repository →](https://github.com/Telos-in-the-Void/vd-cloud)**
 
 **Technologies**
 
@@ -38,13 +40,15 @@ The project intentionally documents both successful findings and hypotheses that
 
 ---
 
-## 🌍 Atlas Observatory *(Coming Soon)*
+## 🌍 Atlas Observatory
 
 Atlas Observatory extends the V&D research into an interactive visualization environment.
 
 It provides a visual framework for exploring market-state diagnostics through dashboards that combine volatility, dispersion, and derived market-state classifications.
 
-The project focuses on making quantitative research easier to interpret while preserving methodological transparency.
+The project focuses on making quantitative research easier to interpret while preserving methodological transparency. Zone labels are explicitly provisional and rule-based — a monitoring instrument, not a trading signal.
+
+**[Open the live dashboard →](https://telos-in-the-void.github.io/vd-cloud/atlas/)** · **[View the notebook →](https://github.com/Telos-in-the-Void/vd-cloud/tree/main/atlas)**
 
 ---
 
@@ -96,8 +100,8 @@ The portfolio will continue to expand as projects complete governance review and
 Planned additions include:
 
 - Statistical validation utilities
-- Market-state research
-- Quantitative finance notebooks
+- Options positioning and liquidity analytics
+- Macro liquidity forecasting
 - Portfolio analytics
 - Research engineering tools
 
