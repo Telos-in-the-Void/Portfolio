@@ -12,6 +12,37 @@ This repository serves as the public entry point to my research portfolio. It hi
 
 # Featured Research
 
+## 🔭 Project Parallax
+
+**Project Parallax — Equity Dispersion & Attribution** is an active research project examining how explanations of equity returns change across analytical lenses.
+
+The project asks how the same portfolio outcome may be interpreted differently through dispersion and correlation, variance decomposition, portfolio attribution, factor models, and residual or security-specific effects.
+
+Phase 0 literature reconnaissance is complete. Phase 1 is currently focused on historical replication and data-feasibility work, including validation of a public-data market / industry / firm variance decomposition. Empirical testing of the primary Parallax hypotheses has **not** yet begun.
+
+The research emphasizes:
+
+- disciplined hypothesis and decision governance
+- historical replication before original hypothesis testing
+- explicit treatment of survivorship and data-quality limitations
+- comparison across attribution and factor-model perspectives
+- reproducible public-data research
+- clear separation between methodological validation and empirical evidence
+
+**[View the repository →](https://github.com/MJNolan37/Project-Parallax)**
+
+**Technologies**
+
+- Python
+- Pandas
+- NumPy
+- Jupyter Notebook
+- yfinance
+- SEC EDGAR
+- Kenneth French Data Library
+
+---
+
 ## 📈 V&D Cloud
 
 **Volatility & Dispersion Cloud** is a market-state diagnostic research project inspired by Ichimoku-style regime mapping.
@@ -75,7 +106,7 @@ Deliberately stops before machine learning. The contribution is engineering, rep
 Current areas of focus include:
 
 - Market-state diagnostics
-- Portfolio analytics
+- Portfolio attribution and risk
 - Statistical validation
 - Options analytics
 - Quantitative finance
@@ -119,7 +150,6 @@ Planned additions include:
 
 - Statistical validation utilities
 - Macro liquidity forecasting
-- Portfolio analytics
 - Research engineering tools
 
 Projects remain private until they meet documentation, reproducibility, and data-governance standards.
